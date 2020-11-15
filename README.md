@@ -7,9 +7,12 @@
 
 ## test commit 3
 
+<<<<<<< HEAD
 ## teste commit 3
 
 ## teste commit 4
+=======
+>>>>>>> brnch-1
 ## My commit
 
 ## My commit 2
